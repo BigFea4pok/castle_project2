@@ -1,0 +1,4 @@
+GLAD 0.1.36, generated for OpenGL 2.1 compatibility using the packaged Khronos specification.
+Generator: https://github.com/Dav1dde/glad/tree/v0.1.36
+Generated files retain their original headers and Khronos notices.
+No GLM, GLU, GLUT, game engine or model loader is required.
